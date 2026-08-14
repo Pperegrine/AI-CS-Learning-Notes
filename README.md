@@ -59,25 +59,13 @@
 - Optimization
 
 
-## 📚 Repository Structure
+### 📚 Repository Structure
 
+```text
 .
 ├── AI/
-│   ├── Machine-Learning/
-│   ├── Deep-Learning/
-│   ├── Computer-Vision/
-│   ├── NLP/
-│   ├── LLM/
-│   ├── Multimodal/
-│   ├── Embodied-AI/
-│   └── Reinforcement-Learning/
 │
-├── Computer-Science/
-│   ├── Data-Structures/
-│   ├── Operating-System/
-│   ├── Computer-Architecture/
-│   ├── Computer-Network/
-│   └── Database/
+├── CS/
 │
 ├── Mathematics/
 │
@@ -86,9 +74,7 @@
 ├── Projects/
 │
 └── Thoughts/
-
-
----
+```
 
 # 📝 Learning Philosophy
 

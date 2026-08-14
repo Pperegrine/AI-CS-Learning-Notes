@@ -60,3 +60,82 @@
 
 
 ## 📚 Repository Structure
+
+.
+├── AI/
+│   ├── Machine-Learning/
+│   ├── Deep-Learning/
+│   ├── Computer-Vision/
+│   ├── NLP/
+│   ├── LLM/
+│   ├── Multimodal/
+│   ├── Embodied-AI/
+│   └── Reinforcement-Learning/
+│
+├── Computer-Science/
+│   ├── Data-Structures/
+│   ├── Operating-System/
+│   ├── Computer-Architecture/
+│   ├── Computer-Network/
+│   └── Database/
+│
+├── Mathematics/
+│
+├── Paper-Reading/
+│
+├── Projects/
+│
+└── Thoughts/
+
+
+---
+
+# 📝 Learning Philosophy
+
+学习不仅是记忆知识，更重要的是建立自己的理解体系。
+
+因此这里记录的不只是：
+
+> “这个算法是什么”
+
+还包括：
+
+- 它为什么出现？
+- 它相比以前的方法有什么改进？
+- 它的核心思想是什么？
+- 它有哪些限制？
+- 它未来的发展方向是什么？
+
+---
+
+# 🚀 Current Focus
+
+目前主要学习方向：
+
+- Deep Learning Fundamentals
+- Transformer Architecture
+- Large Language Models
+- Vision-Language Models
+- Embodied AI
+- Autonomous Driving
+- Robotics Intelligence
+
+
+---
+
+# 🎯 Long-term Goals
+
+希望通过持续积累：
+
+- 建立完整的计算机科学知识体系
+- 掌握人工智能领域核心理论
+- 提升阅读和理解论文的能力
+- 通过项目实践验证理论知识
+- 形成自己的技术积累
+
+
+---
+
+# 📅 Learning Log
+
+持续更新中...
